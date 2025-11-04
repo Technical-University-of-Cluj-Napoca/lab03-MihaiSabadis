@@ -3,6 +3,7 @@ import pygame
 # some global constants
 WIDTH = 800
 HEIGHT = 800
+DEPTH_LIMIT = 200  # depth limit for DLS/IDS
 
 # colors.
 # if you find it more suitable, change this dictionary to standalone constants like: RED = (255, 0, 0)
